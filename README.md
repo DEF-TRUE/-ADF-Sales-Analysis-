@@ -18,7 +18,7 @@ Feb 2022 with the jan 2022 file in PowerBI.
 
 * Sum of Revenue by Channel:
   1) Ethinic: 66.14K (12.81%)
-  2) 
+  
   3) Mainstream : 450.29K(87.19%)
 
 * Sum of Revenue by Top 5 Salesperson and Type:
@@ -26,26 +26,26 @@ Feb 2022 with the jan 2022 file in PowerBI.
 1) Mainstream:
    1) Dry : 396K
       
-   3) Frozen:662K
+   2) Frozen:662K
     
 2) Front Desk:
    
    1) Dry : 740K
       
-   3) Frozen: 242K
+   2) Frozen: 242K
     
 
 4) AZIZ UL HAQUE:
    
    1) Dry :  220K
       
-   3) Frozen: 450K
+   2) Frozen: 450K
 
 6) ISRAR MALEK :
    
    1) Dry : 70K
       
-   3) Frozen:338K
+   2) Frozen:338K
 
 * Sum of Revenue and Sum of Ship Qty by Product Code:
   1) ADFF-AFB:
@@ -75,22 +75,23 @@ Feb 2022 with the jan 2022 file in PowerBI.
      
      Sum of Ship Qty : 17K
      
-  8) ADFD-GEN:
+  7) ADFD-GEN:
      
      Sum of Revenue : 350,183K
      
      Sum of Ship Qty: 30k
      
-  10) ADFD-CH :
+  8) ADFD-CH :
     Sum of Revenue : 4721.88K
 
     Sum of Ship Qty : 5K
-  12) ADFD-PA :
+  9) ADFD-PA :
   
     Sum of Revenue :2034.87
   
     Sum of Ship Qty: 2K
-  13) ADF-FRZ :
+  
+  10) ADF-FRZ :
   
       SUM OF REVENUE:0K
   
@@ -117,5 +118,4 @@ Feb 2022 with the jan 2022 file in PowerBI.
      
   5) AL ANWAR HALAL MEET AND GROCERY : 28
     
-  6) Food time Pickering:26
   
