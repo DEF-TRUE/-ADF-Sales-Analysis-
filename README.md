@@ -11,13 +11,13 @@ Feb 2022 with the jan 2022 file in PowerBI.
 
 # INSIGHTS 💎:
 
- *Sum OF Ship Qty :220.19K
+ * Sum OF Ship Qty :220.19K
  
- *Sum of Revenue :5.86M
+ * Sum of Revenue :5.86M
  
- *Maximum Unit Price : 90 $
+ * Maximum Unit Price : 90 $
  
- *Amount of Ship Qty :75.31K
+ * Amount of Ship Qty :75.31K
  
 
 * Sum of Revenue by Channel:
