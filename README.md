@@ -35,67 +35,94 @@ Feb 2022 with the jan 2022 file in PowerBI.
    2) Frozen: 242K
     
 
-4) AZIZ UL HAQUE:
+3) AZIZ UL HAQUE:
    
    1) Dry :  220K
       
    2) Frozen: 450K
 
-6) ISRAR MALEK :
+4) ISRAR MALEK :
    
    1) Dry : 70K
       
    2) Frozen:338K
 
 * Sum of Revenue and Sum of Ship Qty by Product Code:
+  
   1) ADFF-AFB:
-     1)Sum of Revenue :2,392,813K
-     
-     2)Sum of Ship Qty :58K
+     Sum of Revenue :2,392,813K
+* 
+     Sum of Ship Qty :58K
+
 
   2)ADFD-RTE :
-    1)Sum of Revenue : 1,152,969K
-  
-    2)Sum of Ship Qty : 71K
-    
+    Sum of Revenue : 1,152,969K
+
+
+    Sum of Ship Qty : 71K
+
+
   3) ADFF-AFS:
-    1)Sum of Revenue:666,585K
      
-    2) Sum of Ship Qty :16K
-       
+  Sum of Revenue:666,585K
+
+     
+     Sum of Ship Qty :16K
+
+
   4) ADFF-AFV:
      
-     1)Sum of Revenue: 591,836K
+
+      Sum of Revenue: 591,836K
+  
      
-     2)Sum of Shp Qty : 21k
-     
+     Sum of Shp Qty : 21k
+
+
   6) ADFD-PI :
      
+
      Sum of Revenue : 491,030K
+ 
      
      Sum of Ship Qty : 17K
      
-  7) ADFD-GEN:
+
+   7) ADFD-GEN:
+  
+ 
      
      Sum of Revenue : 350,183K
+
      
      Sum of Ship Qty: 30k
-     
+
+
+
   8) ADFD-CH :
+      
     Sum of Revenue : 4721.88K
 
+
+
     Sum of Ship Qty : 5K
+
+
   9) ADFD-PA :
   
     Sum of Revenue :2034.87
+
   
     Sum of Ship Qty: 2K
   
+  
   10) ADF-FRZ :
+      
   
       SUM OF REVENUE:0K
   
       Sum of Ship Qty :58.42
+      
 
 * TOP 5 Customers by Revenue:
   
