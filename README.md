@@ -150,4 +150,14 @@ Feb 2022 with the jan 2022 file in PowerBI.
      
   5) AL ANWAR HALAL MEET AND GROCERY : 28
     
-  
+  # STAY TUNED WITH ME  IN :
+
+    GITHUB :https://github.com/DEF-TRUE
+
+FACEBOOK :https://www.facebook.com/hamimelahi.saad?mibextid=ZbWKwL
+
+Instagram : https://www.facebook.com/hamimelahi.saad?mibextid=ZbWKwL
+
+Linkedin : www.linkedin.com/in/hamim-saad-a86094307
+
+   
