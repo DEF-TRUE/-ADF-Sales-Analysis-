@@ -10,9 +10,13 @@ Here, In the "All data upto Jan 2022" file only the datas upto January 2022 are 
 Feb 2022 with the jan 2022 file in PowerBI.
 
 # INSIGHTS 💎:
+
  *Sum OF Ship Qty :220.19K
+ 
  *Sum of Revenue :5.86M
+ 
  *Maximum Unit Price : 90 $
+ 
  *Amount of Ship Qty :75.31K
  
 
@@ -51,7 +55,7 @@ Feb 2022 with the jan 2022 file in PowerBI.
   
   1) ADFF-AFB:
      Sum of Revenue :2,392,813K
-* 
+  
      Sum of Ship Qty :58K
 
 
@@ -136,7 +140,7 @@ Feb 2022 with the jan 2022 file in PowerBI.
      
   5) IQBAL FOODS HALAL SUPERSTORE:105K
           
- *BOTTOM 5 Customers by Revenue:
+ * BOTTOM 5 Customers by Revenue:
   1) SADIQ CATERING AND GROCERIES  : 33
      
   2) ZAIQA Restaurant : 32
