@@ -59,7 +59,7 @@ Feb 2022 with the jan 2022 file in PowerBI.
      Sum of Ship Qty :58K
 
 
-  2)ADFD-RTE :
+  2) ADFD-RTE :
   
     Sum of Revenue : 1,152,969K
 
