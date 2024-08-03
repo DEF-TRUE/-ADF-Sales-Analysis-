@@ -60,6 +60,7 @@ Feb 2022 with the jan 2022 file in PowerBI.
 
 
   2)ADFD-RTE :
+  
     Sum of Revenue : 1,152,969K
 
 
